@@ -24,4 +24,13 @@ The project is scalable and can be deployed on cloud platforms like Render, Rail
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/0ea70fac-2ef9-4736-b7a0-1b2a30c50a01)
+
+![Image](https://github.com/user-attachments/assets/03eff945-7c8c-4ffe-9485-54e51452722f)
+
+![Image](https://github.com/user-attachments/assets/672a89dc-38ac-4044-a80c-eb0d0552b96d)
+
+![Image](https://github.com/user-attachments/assets/2d8816f2-104a-4916-9530-b3cbb424ce25)
+
+![Image](https://github.com/user-attachments/assets/843c4f7e-9a90-4f68-bb09-407b4f1dccc2)
 
